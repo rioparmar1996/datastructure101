@@ -87,3 +87,6 @@ console.log(newArray);
 
 // Strings are basically a Array of char ;
 // to solve a string question convert into array do operation and return in string
+// where to use array
+// for fast lookup, fast push/pop and ordered
+//slow inserts,slow delete, fixed sized
